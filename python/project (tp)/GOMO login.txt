@@ -1,0 +1,2 @@
+user name: GOMO login
+password: 2004

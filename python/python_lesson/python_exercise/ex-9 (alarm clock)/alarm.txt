@@ -1,0 +1,10 @@
+1) take input : create new alarm 
+                delete existing alarm
+                set ringtone
+2) create new alarm : set date and time
+
+3) delete existing alarm : open list of alarms 
+                           delete wished alarm
+
+4) set ringtone : open list of all mp3
+                  set mp3 
